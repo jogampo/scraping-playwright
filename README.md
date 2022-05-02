@@ -1,0 +1,1 @@
+Eso es un proyecto que he iniciado para hacer con playWright: https://playwright.dev/
